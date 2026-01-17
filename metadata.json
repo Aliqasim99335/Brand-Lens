@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BrandLens AI",
+  "description": "An advanced AI-powered fashion assistant that identifies clothing brands, styles, and garment details from photos using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
